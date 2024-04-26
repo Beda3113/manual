@@ -1,5 +1,5 @@
 # Алгоритм выполнения задания
-![-]([https://yandex.ru/images/search?from=tabbar&img_url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FyjivWxxH0eE%2Fmaxresdefault.jpg%3F7857057827&lr=2&pos=3&rpt=simage&text=github](https://yandex.ru/images/search?from=tabbar&img_url=https%3A%2F%2Fcdn.siasat.com%2Fwp-content%2Fuploads%2F2022%2F05%2FGithub.jpg&lr=2&pos=1&rpt=simage&text=гитхаб)
+![git]([https://yandex.ru/images/search?from=tabbar&img_url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FyjivWxxH0eE%2Fmaxresdefault.jpg%3F7857057827&lr=2&pos=3&rpt=simage&text=github](https://yandex.ru/images/search?from=tabbar&img_url=https%3A%2F%2Fcdn.siasat.com%2Fwp-content%2Fuploads%2F2022%2F05%2FGithub.jpg&lr=2&pos=1&rpt=simage&text=гитхаб))
 ## №1 Создание локального репозитория
 
 - на рабочем столе выбрать папку предназначенную для локального репозитория (далее ПАПКА), нажмите не неё правой клавишей мыши, выберите Показать дополнительные параметры → GIT Bash here.
